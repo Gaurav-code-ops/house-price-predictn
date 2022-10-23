@@ -27,7 +27,7 @@ This dataset is obtained from kaggle and can be downloaded from link https://www
 
 ## Concepts used
 
- 1.Data Cleaning. refer https://realpython.com/python-data-cleaning-numpy-pandas/
+1.Data Cleaning. refer https://realpython.com/python-data-cleaning-numpy-pandas/
 
 2. Feature Engineering. refer https://towardsdatascience.com/what-is-feature-engineering-importance-tools-and-techniques-for-machine-learning-2080b0269f10
 
@@ -35,7 +35,7 @@ This dataset is obtained from kaggle and can be downloaded from link https://www
 
 4. Machine Learning Algorithms. refer https://towardsdatascience.com/machine-learning/home
 
-5. for html, css, javascript refer https://www.youtube.com/watch?v=6mbwJ2xhgzM&list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg
+5. For html, css, javascript refer https://www.youtube.com/watch?v=6mbwJ2xhgzM&list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg
 
 
 
