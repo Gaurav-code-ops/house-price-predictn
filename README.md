@@ -17,7 +17,7 @@ This dataset is obtained from kaggle and can be downloaded from link https://www
 
 ## Logical Flow of Project
 
-1. Designed a model using sklearn and linear regression using dataset mentioned.
+  1. Designed a model using sklearn and linear regression using dataset mentioned.
 
 2. Writing a python flask server that uses the saved model to serve http get and post requests.
 
