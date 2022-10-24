@@ -1,4 +1,4 @@
- ### House Price Prediction in Bangalore, India
+ # House Price Prediction in Bangalore, India
 
  
 
